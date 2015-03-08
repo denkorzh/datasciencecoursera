@@ -1,8 +1,8 @@
-*Initializing the repo in a PC folder:*
+*Initializing the repo in a PC folder:*\\
 $ git init
 
 *Pointing to the Web repo:*
-$ git remote add origin https://gitgub.com/UserName.RepoName.git
+$ git remote add origin https://gitgub.com/UserName/RepoName.git
 ________________________________________________________________
 *Adding new files to the local repo:*
 $ git add . -> adds all new fles
